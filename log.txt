@@ -1,0 +1,23 @@
+* commit 8aa4d96a013f22f903baa4cce0f86ae95f2512da
+| Author: andreevev <eugene.v.andreev@mail.ru>
+| Date:   Sat Mar 15 23:34:16 2014 +0100
+| 
+|     one more feature
+|  
+* commit 60f360414283bb26d4c8be215a2d6e67ff0a96a9
+| Author: andreevev <eugene.v.andreev@mail.ru>
+| Date:   Sat Mar 15 23:32:24 2014 +0100
+| 
+|     some new features were added
+|  
+* commit 6dfde36055e3d598a53af88f4502f8414ff1c23a
+| Author: andreevev <eugene.v.andreev@mail.ru>
+| Date:   Sat Mar 15 23:22:23 2014 +0100
+| 
+|     Html file added
+|  
+* commit 37e85973da1a5770891c1df04ee30cbce2463774
+  Author: andreevev <eugene.v.andreev@mail.ru>
+  Date:   Sat Mar 15 23:16:18 2014 +0100
+  
+      Initial commit
