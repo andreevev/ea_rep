@@ -19,5 +19,3 @@
 * commit 37e85973da1a5770891c1df04ee30cbce2463774
   Author: andreevev <eugene.v.andreev@mail.ru>
   Date:   Sat Mar 15 23:16:18 2014 +0100
-  
-      Initial commit
